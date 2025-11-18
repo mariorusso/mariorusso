@@ -82,8 +82,6 @@ SaaS architecture, multi-tenant systems, SEO-optimized apps, AI-powered workflow
 
 ## 📊 GitHub Stats
 
-*(Feel free to comment these out if you don’t want them — but recruiters like them.)*
-
-```md
 ![Mario’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariorusso&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorusso&layout=compact&theme=dark)
+
