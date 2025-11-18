@@ -86,6 +86,7 @@ Stay tuned — updates coming soon.
 
 ## 📌 Featured Project
 **MealDeals Frontend Showcase**
+
 🔗 Live Demo: https://mealdeals-fe-showcase.vercel.app
 
 🔗 Code: https://github.com/mariorusso/mealdeals-fe-showcase
