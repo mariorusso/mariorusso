@@ -84,6 +84,15 @@ Stay tuned — updates coming soon.
 
 ---
 
+## 📌 Featured Project
+**MealDeals Frontend Showcase**
+🔗 Live Demo: https://mealdeals-fe-showcase.vercel.app
+
+🔗 Code: https://github.com/mariorusso/mealdeals-fe-showcase
+
+A simplified, open-source version of the MealDeals front-end experience. Demonstrates map-linked UI, card interactions, mock data, and component-based architecture.
+---
+
 ## 📊 GitHub Stats  
 _(Public repos only — most active work is private.)_
 
