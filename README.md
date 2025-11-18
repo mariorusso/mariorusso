@@ -1,87 +1,103 @@
 # 👋 Hi, I'm Mario Russo  
 ### Senior Full Stack Engineer (Frontend-Centric)  
-**React • Next.js • TypeScript • Node.js • PostgreSQL • SaaS • AI-Ready Interfaces**
+### React • Next.js • TypeScript • Node.js • PostgreSQL • SaaS • AI-Driven Interfaces
 
-I’m a Senior Full Stack Engineer with 13+ years of experience building fast, scalable, user-focused applications across SaaS, e-commerce, and AI-driven products. I specialize in **frontend architecture**, **component systems**, **high-performance UI**, and **data-driven product engineering**.
+With 13+ years of experience, I design and build high-performance web applications, SaaS platforms, and data-rich user interfaces. I'm the **technical co-founder and lead engineer of MealDeals.app**, a geo-targeted restaurant deals platform built with **Next.js, TypeScript, PostgreSQL, serverless APIs**, and a full partner/admin dashboard.
 
-I’m also the **technical co-founder and lead engineer of MealDeals.app**, a geo-targeted restaurant deals platform powering dynamic maps, multilingual SEO, advanced geolocation logic, and a complete partner/admin dashboard — all built with **Next.js + TypeScript + PostgreSQL + serverless Node APIs**.
+My focus areas include:
 
----
-
-## 🚀 What I Do
-
-- **Frontend Architecture & UI Systems**  
-  Complex dashboards, interactive interfaces, design systems, reusable UI patterns.
-
-- **Full Stack Development**  
-  Next.js, TypeScript, Node.js, Postgres, authentication, APIs, background jobs, SSR/ISR.
-
-- **SaaS Engineering**  
-  Subscription systems, analytics dashboards, multi-tenant flows, onboarding, CRM logic.
-
-- **AI-Ready Frontends**  
-  Integrating ML/AI models into intuitive UI, chat interfaces, agent workflows, retrieval UIs.
-
-- **Geolocation & Mapping**  
-  Distance ranking, location-based recommendations, dynamic maps, SEO-indexable pages.
-
-- **Performance & SEO Optimization**  
-  Lighthouse improvements, Core Web Vitals, caching, prefetching, JSON-LD, dynamic sitemaps.
+- ⚡ Scalable Frontend Architecture  
+- 🌍 Geo-location systems & map-based UI  
+- 🧩 Component-driven UI + design systems  
+- 🚀 SSR/ISR, performance optimization, Core Web Vitals  
+- 🗃️ Database design & API integration (Node.js/PostgreSQL)  
+- 🌐 Multilingual applications (next-intl)  
+- 🤖 AI-ready interfaces & data-driven product design  
 
 ---
 
-## 🧪 Featured Projects
+## 🛠️ Notable Work (Mostly Private Repositories)
 
-### 🍽️ **MealDeals.app** — Co-Founder & Lead Engineer  
-A location-based restaurant deals platform built with:  
-**Next.js, TypeScript, PostgreSQL, Vercel, serverless APIs, Stripe, Brevo, Maps, Geolocation**
+### 🥇 **MealDeals.app (2024–Present) — Co-Founder & Lead Engineer**  
+A full SaaS platform showcasing:  
+- Next.js (App Router), TypeScript, Node.js  
+- PostgreSQL schema & distance-based queries  
+- Serverless APIs, cron jobs, process automation  
+- Admin + partner dashboards (deals, analytics, users, subscriptions)  
+- Stripe billing integrations  
+- SEO, JSON-LD, dynamic sitemaps, geo-ranking  
+- Real-time search, fuzzy matching, city-based filtering  
 
-🔗 https://www.mealdeals.app  
-⭐ Full system architecture: SSR pages, partner dashboard, analytics, subscription flows  
-⭐ Advanced geolocation: distance ranking, filtering, caching  
-⭐ AI-ready routing and structured data for restaurant discovery
-
----
-
-### 💖 **LovSnap.com** — Interactive Couples Page Builder  
-Customizable couple pages with photos, stories, timeline, animations, and digital keepsakes.  
-Built with **Next.js + Stripe + TypeScript**.  
-🔗 https://www.lovsnap.com
+_(**Private repository** — business logic & data are not public.)_
 
 ---
 
-### 🪙 **Emigro Finance** — Frontend Engineer (Web3)  
-Dashboard + Web3 integrations for remittances and tokenized vaults.  
-🏆 **Winner of the BENQI Moralis Hackathon Prize**.
+### ❤️ **LovSnap (2024)**  
+A romantic page-builder SaaS built with:  
+- Next.js + TypeScript  
+- Image upload pipeline  
+- Stripe checkout  
+- Dynamic page generation & theme engine  
+
+_(Private repository — commercial code.)_
 
 ---
 
-## 🛠️ Tech Stack
+### 🔗 **W3 Digital Marketing (2019–2023)**  
+Delivered 40+ websites/applications for clients across Canada, USA, and Brazil.  
+Examples include booking systems, dashboards, e-commerce customizations, automations, and performance-optimized frontends.
 
-**Frontend:**  
-React, Next.js, TypeScript, Tailwind, Zustand, Redux, React Query, HTML/CSS, GSAP, Framer Motion
-
-**Backend:**  
-Node.js, Express, PostgreSQL, Prisma, REST APIs, authentication, cron jobs
-
-**Tools:**  
-Vercel, Docker, GitHub Actions, Stripe, Brevo, Cloudflare, SendGrid, Figma
-
-**Platforms:**  
-SaaS architecture, multi-tenant systems, SEO-optimized apps, AI-powered workflows
+_(Mostly private repos — client work.)_
 
 ---
 
-## 📫 Links
+### 🏆 **Emigro Finance (Web3) — Hackathon Award Winner**  
+Frontend engineer responsible for:  
+- UI for digital asset dashboards  
+- Wallet integrations & Web3 flows  
+- Visual components and graphics  
+- Real-time balance/transaction UX  
 
-- 🌐 Portfolio: **https://www.russomario.com**
-- 💼 LinkedIn: **https://linkedin.com/in/mariorusso1**
-- 💌 Email: **mario@russomario.com**
+🏅 **Won the BENQI Moralis Hackathon Prize**  
+_(Private repo — blockchain integrations & vault logic are closed-source.)_
 
 ---
 
-## 📊 GitHub Stats
+## 📁 Public Examples  
+> I'm currently preparing **public showcase repositories** to demonstrate my architecture style, code organization, and UI/UX approach without exposing private business logic.  
+These will include:
+
+- MealDeals UI Showcase (mocked data)  
+- LovSnap UI + form logic (safe public version)  
+- A full-stack Next.js example template  
+- Reusable TypeScript utilities, hooks & components  
+
+Stay tuned — updates coming soon.
+
+---
+
+## 🧰 Tech Stack  
+**Frontend**: Next.js, React, TypeScript, Zustand, TailwindCSS, SSR/ISR  
+**Backend**: Node.js, PostgreSQL, TRPC/REST, serverless APIs  
+**Cloud**: Vercel, Cloudflare, Railway, Neon, Supabase Auth (when needed)  
+**Tools**: Stripe, SendGrid/Brevo, Analytics & A/B testing, AI integrations  
+
+---
+
+## 📊 GitHub Stats  
+_(Public repos only — most active work is private.)_
 
 ![Mario’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariorusso&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorusso&layout=compact&theme=dark)
 
+---
+
+## 🔗 Connect with me  
+🌐 **Portfolio:** https://russomario.com  
+💼 **LinkedIn:** https://linkedin.com/in/mariorusso1  
+📧 **Email:** mario@russomario.com  
+
+---
+
+### Thanks for stopping by!  
+If you're interested in collaborating, hiring, or discussing SaaS/AI/frontend architecture — feel free to reach out.
