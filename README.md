@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mario Russo  
-### Senior Full Stack Engineer (Frontend-Centric)  
+### Senior Full Stack Engineer
 ### React • Next.js • TypeScript • Node.js • PostgreSQL • SaaS • AI-Driven Interfaces
 
 With 13+ years of experience, I design and build high-performance web applications, SaaS platforms, and data-rich user interfaces. I'm the **technical co-founder and lead engineer of MealDeals.app**, a geo-targeted restaurant deals platform built with **Next.js, TypeScript, PostgreSQL, serverless APIs**, and a full partner/admin dashboard.
