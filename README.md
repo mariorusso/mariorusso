@@ -1,113 +1,56 @@
-# 👋 Hi, I'm Mario Russo  
-### Senior Full Stack Engineer
-### React • Next.js • TypeScript • Node.js • PostgreSQL • SaaS • AI-Driven Interfaces
+# 👋 Hi, I'm Mario Russo
 
-With 13+ years of experience, I design and build high-performance web applications, SaaS platforms, and data-rich user interfaces. I'm the **technical co-founder and lead engineer of MealDeals.app**, a geo-targeted restaurant deals platform built with **Next.js, TypeScript, PostgreSQL, serverless APIs**, and a full partner/admin dashboard.
+**Senior Full-Stack Engineer · Co-Founder & CTO of [MealDeals.app](https://mealdeals.app)**
+React · Next.js · TypeScript · Node.js · PHP · PostgreSQL · AI features in production
 
-My focus areas include:
+With 17+ years of experience, I build web products end to end: front-end architecture, back-end and databases, payments, analytics, and AI features that real users depend on. I've shipped for my own companies and for agency clients across Canada, the US, and Brazil.
 
-- ⚡ Scalable Frontend Architecture  
-- 🌍 Geo-location systems & map-based UI  
-- 🧩 Component-driven UI + design systems  
-- 🚀 SSR/ISR, performance optimization, Core Web Vitals  
-- 🗃️ Database design & API integration (Node.js/PostgreSQL)  
-- 🌐 Multilingual applications (next-intl)  
-- 🤖 AI-ready interfaces & data-driven product design  
+📍 Canada · Canadian citizen · Remote (Canada / US, TN-eligible)
 
 ---
 
-## 🛠️ Notable Work (Mostly Private Repositories)
+## 🛠️ Notable Work (mostly private repositories)
 
-### 🥇 **MealDeals.app (2024–Present) — Co-Founder & Lead Engineer**  
-A full SaaS platform showcasing:  
-- Next.js (App Router), TypeScript, Node.js  
-- PostgreSQL schema & distance-based queries  
-- Serverless APIs, cron jobs, process automation  
-- Admin + partner dashboards (deals, analytics, users, subscriptions)  
-- Stripe billing integrations  
-- SEO, JSON-LD, dynamic sitemaps, geo-ranking  
-- Real-time search, fuzzy matching, city-based filtering  
+### 🍽️ MealDeals.app — Co-Founder & CTO (2024–Present)
+A geo-targeted restaurant deals marketplace: 1,193 restaurant accounts, CA$5K+ MRR.
+- Three connected apps (public marketplace, partner dashboard, admin) on Next.js App Router, TypeScript, PostgreSQL
+- AI semantic search (embeddings + pgvector + PostGIS) cut from multi-second timeouts to under 300 ms
+- First-party analytics pipeline in plain JavaScript (IntersectionObserver, sendBeacon, Edge ingestion, daily upserts)
+- Stripe subscriptions, webhooks, and reconciliation
+- 100/100 Lighthouse SEO, schema.org JSON-LD, llms.txt
 
-_(**Private repository** — business logic & data are not public.)_
+### 📋 MenuMKT — Founder & Lead Engineer (2026–Present)
+AI menu digitization for restaurants.
+- PHP 8 MVC framework built from scratch (routing, autoloading, service layer, templates)
+- Vision/LLM pipeline (Gemini → Claude fallback) turning menu photos into validated structured data
+- Stripe across 5 currencies, 4 locales, layered security (CSRF, rate limiting, upload hardening)
 
----
+### 💌 LovSnap
+Page-builder SaaS: Next.js + TypeScript, image upload pipeline, Stripe checkout, theme engine.
 
-### ❤️ **LovSnap (2024)**  
-A romantic page-builder SaaS built with:  
-- Next.js + TypeScript  
-- Image upload pipeline  
-- Stripe checkout  
-- Dynamic page generation & theme engine  
+### 🌐 W3 Digital Marketing (2019–2024)
+50+ client websites and web apps, including WordPress builds like [bathfoodbank.org](https://bathfoodbank.org), custom React/Node apps, technical SEO, and performance work.
 
-_(Private repository — commercial code.)_
-
----
-
-### 🔗 **W3 Digital Marketing (2019–2023)**  
-Delivered 40+ websites/applications for clients across Canada, USA, and Brazil.  
-Examples include booking systems, dashboards, e-commerce customizations, automations, and performance-optimized frontends.
-
-_(Mostly private repos — client work.)_
+### 🏆 Emigro Finance (Web3) — Frontend Engineer
+React interfaces for crypto payments. Won the US$40,000 Benqi Prize at the Moralis Hackathon.
 
 ---
 
-### 🏆 **Emigro Finance (Web3) — Hackathon Award Winner**  
-Frontend engineer responsible for:  
-- UI for digital asset dashboards  
-- Wallet integrations & Web3 flows  
-- Visual components and graphics  
-- Real-time balance/transaction UX  
-
-🏅 **Won the BENQI Moralis Hackathon Prize**  
-_(Private repo — blockchain integrations & vault logic are closed-source.)_
+## 📌 Public Projects
+- **[mealdeals-fe-showcase](https://github.com/mariorusso/mealdeals-fe-showcase)**: open-source version of the MealDeals front-end (map-linked UI, card interactions, component architecture). [Live demo](https://mealdeals-fe-showcase.vercel.app)
+- **[ai-deal-social-copy](https://github.com/mariorusso/ai-deal-social-copy)**: generates titles, descriptions, captions, and hashtags for restaurant deals with an LLM.
 
 ---
 
-## 📁 Public Examples  
-> I'm currently preparing **public showcase repositories** to demonstrate my architecture style, code organization, and UI/UX approach without exposing private business logic.  
-These will include:
-
-- MealDeals UI Showcase (mocked data)  
-- LovSnap UI + form logic (safe public version)  
-- A full-stack Next.js example template  
-- Reusable TypeScript utilities, hooks & components  
-
-Stay tuned — updates coming soon.
+## 🧰 Tech Stack
+**Frontend:** JavaScript, TypeScript, React, Next.js (App Router / RSC), semantic HTML, CSS (Grid, Flexbox), Tailwind
+**Backend:** Node.js, PHP 8, Python, REST APIs, webhooks
+**Data:** PostgreSQL (PostGIS, pgvector), MySQL, Redis
+**CMS:** WordPress, Shopify
+**AI:** Gemini, Claude, OpenAI APIs, RAG, structured outputs
+**Platform & tools:** Vercel, Cloudflare, Stripe, Git, Playwright
 
 ---
 
-## 🧰 Tech Stack  
-**Frontend**: Next.js, React, TypeScript, Zustand, TailwindCSS, SSR/ISR  
-**Backend**: Node.js, PostgreSQL, TRPC/REST, serverless APIs  
-**Cloud**: Vercel, Cloudflare, Railway, Neon, Supabase Auth (when needed)  
-**Tools**: Stripe, SendGrid/Brevo, Analytics & A/B testing, AI integrations  
-
----
-
-## 📌 Featured Project
-**MealDeals Frontend Showcase**
-
-🔗 Live Demo: https://mealdeals-fe-showcase.vercel.app
-
-🔗 Code: https://github.com/mariorusso/mealdeals-fe-showcase
-
-A simplified, open-source version of the MealDeals front-end experience. Demonstrates map-linked UI, card interactions, mock data, and component-based architecture.
----
-
-## 📊 GitHub Stats  
-_(Public repos only — most active work is private.)_
-
-![Mario’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariorusso&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorusso&layout=compact&theme=dark)
-
----
-
-## 🔗 Connect with me  
-🌐 **Portfolio:** https://russomario.com  
-💼 **LinkedIn:** https://linkedin.com/in/mariorusso1  
-📧 **Email:** mario@russomario.com  
-
----
-
-### Thanks for stopping by!  
-If you're interested in collaborating, hiring, or discussing SaaS/AI/frontend architecture — feel free to reach out.
+## 🔗 Connect
+🌐 [russomario.com](https://russomario.com) · 💼 [LinkedIn](https://linkedin.com/in/mariorusso1) · ✉️ mariorusso@gmail.com
